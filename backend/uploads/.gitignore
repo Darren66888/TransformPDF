@@ -1,0 +1,6 @@
+# 忽略运行时上传的文件，但保留 .gitkeep 目录结构文件
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.docx

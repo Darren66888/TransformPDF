@@ -12,8 +12,7 @@ backend/target/
 *.ipr
 
 # --- 文件上传目录 (运行时生成) ---
-uploads/
-backend/uploads/
+/uploads/
 
 # --- 系统文件 ---
 .DS_Store
