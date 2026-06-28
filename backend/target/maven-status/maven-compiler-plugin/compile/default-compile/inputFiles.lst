@@ -1,0 +1,12 @@
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\config\WebConfig.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\entity\ConversionTask.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\service\FileStorageService.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\util\PdfContentExtractor.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\service\ConversionService.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\service\impl\ConversionServiceImpl.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\controller\GlobalExceptionHandler.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\util\ImageProcessor.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\repository\ConversionTaskRepository.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\TransformPdfApplication.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\controller\ApiResponse.java
+E:\ProjectDevelop\transformPDF\backend\src\main\java\com\transformpdf\controller\ConversionController.java
